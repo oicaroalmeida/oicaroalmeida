@@ -21,6 +21,12 @@ Sou um desenvolvedor fullstack em formação com conhecimento em HTML, CSS, Java
   <img src="https://img.shields.io/badge/Bubble-%E2%9C%A8-EDA4B8.svg?style=plastic&logo=appveyor" alt="Bubble">
 </p>
 
+## Portfólio e Projetos
+
+https://jalecco.com/ - Jalecco.com
+- Sistema de prontuário eletrônico, calendário, tele medicina, emissão de nostas fiscais) desenvolvido em Bubble.io (lowcode/nocode) com integração com API da Webmania para emissão de nostas fiscais e com a API da Whereby para criação/realização de tele medicina.
+
+
 <!--
 **oicaroalmeida/oicaroalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
